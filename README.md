@@ -4,4 +4,4 @@
  Games available: 1, 2, 3, 4, World, Sister Location, Pizzeria Simulator, and Ultimate Custom Night<br>
  Press ```-=``` for fullscreen
 
-NOT OFFICIAL FNAF PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH SCOTT CAWTHON.
+***NOT OFFICIAL FNAF PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH SCOTT CAWTHON.***
